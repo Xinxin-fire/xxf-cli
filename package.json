@@ -1,28 +1,28 @@
 {
-  "name": "avl-cli",
-  "version": "1.0.1",
+  "name": "xxf-cli",
+  "version": "1.0.0",
   "description": "个人配置前端脚手架工具",
   "keywords": [
     "vue",
-    "avl",
+    "xxf",
     "cli"
   ],
   "main": "index.js",
   "bin": {
-    "avl": "bin/avl",
-    "avl-add": "bin/avl-add",
-    "avl-delete": "bin/avl-delete",
-    "avl-list": "bin/avl-list",
-    "avl-init": "bin/avl-init"
+    "xxf": "bin/xxf",
+    "xxf-add": "bin/xxf-add",
+    "xxf-delete": "bin/xxf-delete",
+    "xxf-list": "bin/xxf-list",
+    "xxf-init": "bin/xxf-init"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "BIgShark<908130255@qq.com>",
+  "author": "XXF",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BigSharkLx/avl-cli"
+    "url": "https://github.com/Xinxin-fire/xxf-cli"
   },
   "dependencies": {
     "chalk": "^2.4.2",
